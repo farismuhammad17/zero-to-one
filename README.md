@@ -4,3 +4,4 @@ This is a collection of my writings, also posted on LeetCode, based on what I le
 
 * Sorting
     * [Insertion Sort](sorting/insertion-sort.md)
+    * [Selection Sort](sorting/selection-sort.md)
